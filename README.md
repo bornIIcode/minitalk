@@ -1,0 +1,1 @@
+Minitalk is a 42 School project designed to explore inter-process communication (IPC) in Linux. The project implements a client-server communication system using Unix signals (SIGUSR1 and SIGUSR2) to send messages efficiently.
